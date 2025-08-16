@@ -1,0 +1,9 @@
+{
+  "trunk": {
+    "name": "Knowledge Base",
+    "address": "knowledge.pstn.twilio.com",
+    "numbers": ["+19033268426"],
+    "auth_username": "livekit-agent",
+    "auth_password": "J8rN!xwLp3Qa"
+  }
+}
